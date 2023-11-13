@@ -1,7 +1,7 @@
 <h1>Angular project about <strong>Burgers!</strong></h1>
 <h2>What's this?</h2>
 <p>It's Angular project for burgers restaurant with order form and transfer from one currency to another. 
-<br>This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.7.</p>
+<br>This project was generated with <a href="https://github.com/angular/angular-cli">Angular CLI version 16.2.7</a>.</p>
 <table>
 <tr>
 <td><a href="https://lexkh.github.io/burgers/">Demo</a></td><td><a href="https://github.com/lexkh/burger-intensive">Code link</a></td>
